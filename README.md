@@ -4,7 +4,7 @@ Based on the collected data, I have prepared a draft for your README file:
 
 # Music-Player
 
-[![Edit in StackBlitz ⚡️](https://stackblitz.com/favicon.ico)](https://stackblitz.com/edit/sb1-bfulud)
+
 
 ## Description
 Music-Player is a project created with StackBlitz. It primarily uses TypeScript with additional JavaScript and CSS components.
